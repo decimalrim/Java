@@ -47,5 +47,11 @@ public class Marine implements SpecialCommand {
 		marine2.move();
 		marine3.attack();
 	}
+
+	@Override
+	public void mining() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }

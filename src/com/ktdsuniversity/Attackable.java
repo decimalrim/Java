@@ -10,4 +10,6 @@ public interface Attackable extends Unit {
 	
 	public void attack();
 
+	void mining();
+
 }
