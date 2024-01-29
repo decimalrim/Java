@@ -50,7 +50,6 @@ public class Marine implements SpecialCommand {
 
 	@Override
 	public void mining() {
-		// TODO Auto-generated method stub
 		
 	}
 	
