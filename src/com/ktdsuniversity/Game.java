@@ -58,7 +58,7 @@ public class Game {
 //		scv.steampack();
 		
 		move(scv);
-		move(marine);
+		move(marine); //?
 		
 		
 	}
